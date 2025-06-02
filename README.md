@@ -17,7 +17,7 @@ This application builds and runs custom vehicles. Users have the option to creat
 This project uses that inquirer package. npm i must first be run in order to install the inquirer package. Once installed, npm start will begin the application.
 
   ## Usage
-Please see the video link for a demo: https://www.youtube.com/watch?v=7HmOh0HxxuQ
+Please see the video link for a demo: https://www.youtube.com/watch?v=i79bIDGdRec
 
   ## Contributing
 Please view my work at the link above. Contribution inquiries can be sent to the email listed below.
